@@ -1,1 +1,6 @@
-Hello I am the Kibana docs
+---
+title: "API Overview"
+slug: "/"
+---
+
+# API Overview
