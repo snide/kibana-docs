@@ -5,7 +5,7 @@ slug: "/"
 
 # Canvas
 
-For a quick overview of Canvas, watch this video [Stand out with Canvas](https://www.youtube.com/watch?v=ZqvF_5-1xjQ).
+For a quick overview of Canvas, watch [Stand out with Canvas](https://www.youtube.com/watch?v=ZqvF_5-1xjQ).
 
 Canvas is a data visualization and presentation tool that sits within Kibana. With Canvas, you can pull live data directly from Elasticsearch, and combine the data with colors, images, text, and your imagination to create dynamic, multi-page, pixel-perfect displays. If you are a little bit creative, a little bit technical, and a whole lot curious, then Canvas is for you.
 
